@@ -4,7 +4,7 @@
 ### Results After Certain Search
 ![Alt text](./app/static/images/search.png "Watchlist searchpage")
 
-### Short Description
+## Short Description
 It is a python application that allow users to see a list of available movies as well as search for a particular movie. 
 
 
