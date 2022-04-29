@@ -1,8 +1,11 @@
 # PWDmanager
-![Alt text](./app/static/images/WatchlistApi.png "Optional title")
+### Homepage
+![Alt text](./app/static/images/WatchlistApi.png "Watchlist homepage")
+### Results After Certain Search
+![Alt text](./app/static/images/search.png "Watchlist searchpage")
 
-
-### It is a python application that allow users to see a list of available movies as well as search for a particular movie. 
+### Short Description
+It is a python application that allow users to see a list of available movies as well as search for a particular movie. 
 
 
 ## Author
