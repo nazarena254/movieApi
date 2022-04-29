@@ -48,7 +48,7 @@ Moreover, to create password for the credential accounts, the user has an option
 
 
 ## License
-Distributed under MIT license.
+Distributed under MIT license.</br>
 Copyright (c) 2022
 
 
